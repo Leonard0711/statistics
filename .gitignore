@@ -107,3 +107,6 @@ ENV/
 # IDE settings
 .vscode/
 .idea/
+
+.cookiecutters/estadistica/statistics/statistics_py/graph_1
+.cookiecutters/estadistica/statistics/statistics_py/graph
